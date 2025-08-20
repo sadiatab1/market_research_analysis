@@ -6,6 +6,8 @@
 
 ## Files
 - `chart.png` — Sankey diagram exported from RAWGraphs (required dimension: 512×512 px or smaller, recommended **512×512**).
+![Market Research Chart](chart_colored.svg)
+
 - `energy_flows.csv` — Data used in RAWGraphs (18 rows).
 
 ## RAWGraphs Steps (exact mapping)
